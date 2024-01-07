@@ -1,0 +1,12 @@
+.container {
+   margin: 50px;
+   padding: 0;
+}
+
+.row {
+   gap: 30px;
+}
+
+.card {
+   height: min-content;
+}
